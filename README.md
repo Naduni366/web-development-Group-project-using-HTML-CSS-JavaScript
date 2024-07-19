@@ -13,3 +13,6 @@ Cosmetics Page: A range of beauty products to enhance your look.
 Jewelry & Accessories Page: Elegant and chic pieces to add the perfect finishing touch. 
 Contact Us Page: Easy access to our contact information and customer service. 
 Explore our website and experience the Diamond Clothes Shop difference!
+
+
+<a href="https://github.com/Naduni366/web-development-Group-project-using-HTML-CSS-JavaScript.git">GitHub</a>
